@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://120.25.247.159/cloudTourData/app/cloudTourIphone-1.0.ipa</string>
+					<string>http://121.40.249.202/cloudTourData/app/cloudTourIphone-1.0.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://120.25.247.159/cloudTourData/app//img/114x114.png</string>
+					<string>http://120.25.247.159/cloudTourData/app/img/114x114.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
